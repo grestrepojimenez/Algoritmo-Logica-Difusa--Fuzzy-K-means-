@@ -1,13 +1,16 @@
 
 
-<p align="center"><b>  Algoritmo Lógica Difusa - Fuzzy K means </b></p>
+  #  Algoritmo Lógica Difusa - Fuzzy K means 
+ 
+
+
 
 Algoritmo desarrollado en MATLAB con el fin de segmentar una población mediante lógica difusa.
 
 Fuzzy k mean es una popular y poderosa técnica de clustering; este método es  más formalizado estadísticamente y descubre los grupos flexibles donde un punto en particular puede pertenecer a más de un grupo con cierta probabilidad.  (Apache Foundation, 2018)
 
 
-##Implementación
+## Implementación
 
 En este caso tenemos 4 tipos de medicina con dos atributos PH y Peso:
  Peso, Ph:
@@ -25,7 +28,7 @@ C2= ((2+4+5)/3,  (1+3+4)/3) = (11/3,  8/3)
 
 
 
-##Referencias:
+## Referencias:
 
 https://mahout.apache.org/users/clustering/fuzzy-k-means.html 
 <br>
